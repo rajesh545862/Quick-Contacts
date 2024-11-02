@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+}
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+    font-family: sans-serif;
+      
+}
+
+ #name{
+  text-align: center;
+  color: rgb(12, 12, 12);
+  background-color: cornflowerblue;
+  font-family: 'Times New Roman', Times, serif;
+  /* margin-right: 250px; */
+  
+}
+
+#phone{
+text-align: center;
+background-color: cornflowerblue;
+font-family: 'Times New Roman', Times, serif;
+} 
+
+#form{
+    text-align: center;
+    display: block;
+       
+}
+
+ul {
+    list-style: none; 
+    padding: 0px;
+    margin-left: 650px;
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+
+/*li {
+    display: flex; 
+    /* margin-right: 400px;  */
+    /* text-align: center; */
+    /* justify-content: space-around; */
+    /* margin-right: 20px; */
+    
+  
+    
+/* } */
+#data{
+    
+ display: flex;
+ color: rgb(255, 0, 0);
+
+   
+}
